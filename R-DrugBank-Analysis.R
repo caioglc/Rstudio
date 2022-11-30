@@ -1,4 +1,4 @@
-# analyzing the Drugbank DataBase with the esquisse library
+# Analyzing the Drugbank DataBase with the esquisse library
 
 # Library installation
 
